@@ -1,0 +1,2 @@
+# Yuva-Intern--Junior-Machine-Learning-Data-Analyst---Agriculture-Agribusiness
+A hands-on learning project under the Yuva Intern Junior Machine Learning Data Analyst – Agriculture &amp; Agribusiness role. Focuses on agricultural data analysis, preprocessing, visualization, and machine learning using Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn, with practical coding exercises and analytical reports.
