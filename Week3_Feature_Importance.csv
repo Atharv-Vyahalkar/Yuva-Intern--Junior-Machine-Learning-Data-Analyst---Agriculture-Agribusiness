@@ -1,0 +1,774 @@
+Feature,Importance
+Crop_Maize,0.2231590257486829
+Crop_Rice,0.11967088127822127
+Crop_Moong,0.0818565688752658
+Area-2024-25,0.07035305888992684
+Crop_Wheat,0.06109009775989793
+Crop_Urad,0.04639982323626119
+State_Chhattisgarh,0.026189799804007312
+Crop_Barley,0.024920179239063582
+State_Maharashtra,0.021228015924202242
+Season_Kharif,0.020658115286209994
+State_Tamil Nadu,0.018359330965172935
+State_Karnataka,0.012841777895372851
+State_Rajasthan,0.012420214956017552
+State_Telangana,0.012255293917773052
+State_Andhra Pradesh,0.012199933854228665
+State_Arunachal Pradesh,0.011734153980630817
+Season_Summer,0.011695175684009506
+Season_Rabi,0.01086438368121039
+Crop_Other Pulses,0.01011321384895001
+State_Madhya Pradesh,0.009430404602642726
+State_Gujarat,0.008801442219978146
+State_Uttar Pradesh,0.008748497385157034
+State_Assam,0.007809971829064187
+State_Bihar,0.007721224084672234
+Crop_Tur,0.007392725754278633
+State_Odisha,0.006989330732955526
+State_Himachal Pradesh,0.006811568836429896
+Crop_Jowar,0.006758072033155315
+Crop_Bajra,0.006609253710093658
+State_West Bengal,0.005994534128243542
+State_Haryana,0.00593829224112774
+State_Jammu And Kashmir,0.0056830540848058
+Crop_Gram,0.0054735688800839
+District_Jodhpur,0.00536454769647255
+District_Morena,0.004931435181923565
+District_Lahaul And Spiti,0.004910192432325051
+District_Vijayapura,0.004870239176914206
+Crop_Ragi,0.004856133863491281
+State_Punjab,0.004713856676027323
+Crop_Lentil,0.004416313735301735
+Crop_Shree Anna /Nutri Cereals,0.003990851711332454
+Crop_Small Millets,0.0038679831438754556
+State_Nagaland,0.0037625279368328772
+District_Dhar,0.003762002587949934
+District_Jamtara,0.003511026718353551
+State_Jharkhand,0.003171714135723342
+District_Rajgarh,0.0027344976440596036
+State_Uttarakhand,0.002675730651931048
+District_Jhabua,0.00237367046271004
+District_Niwari,0.001895515984105612
+State_Kerala,0.0016675123055379314
+District_Auraiya,0.0013543186351085395
+State_Sikkim,0.0007750165426274254
+State_Puducherry,0.0007707414999604978
+State_Tripura,0.000730294650141115
+State_Mizoram,0.000584114723399261
+District_Vijayanagara,0.0004988196532116666
+District_Theni,0.00047037938662697673
+District_East Godavari,0.00045556580805852467
+District_Pratapgarh,0.00043766483780557214
+District_Jaisalmer,0.0004240761711721588
+District_Sindhudurg,0.0004067928599892009
+District_Kolhapur,0.00035259025729353236
+District_Bokaro,0.00033505787992720384
+District_Bapatla,0.00031711341279156417
+District_Unnao,0.00031625950728837114
+District_Nalbari,0.0002969899656055708
+District_Eluru,0.0002716326827753054
+District_Sri Potti Sriramulu Nellore,0.0002577420859941376
+District_Jhansi,0.00025234743944298416
+District_Kannur,0.0002497569963216941
+State_Andaman And Nicobar Islands,0.00024014081037953077
+District_Puducherry,0.00023323615908959743
+District_Latur,0.00022912417331095276
+District_Ananthapuramu,0.00022203443565274415
+District_Nagpur,0.00021077507479223514
+District_Kamrup Metro,0.0002085180818670181
+District_Gariyaband,0.000202580019128951
+District_Sitapur,0.00019374181154393097
+District_Dhule,0.00018950764324603025
+District_Hingoli,0.00016719427897636933
+District_Balodabazar-Bhatapara,0.00016536417988734266
+District_Yavatmal,0.00016425264165690484
+District_Tiruppur,0.0001639100846891254
+District_Churu,0.00016098666985402057
+District_Chittorgarh,0.00015709764967325522
+District_Koppal,0.00015643850674806997
+District_Kamareddy,0.00015559039036111165
+District_Bikaner,0.00014788100047644136
+District_Dhubri,0.00014739453454478614
+District_Kumuram Bheem Asifabad,0.00014645648792069681
+District_Raipur,0.00014418289282961254
+District_Gondia,0.00014129437301474944
+District_Mahoba,0.00013941182813447035
+District_Guntur,0.0001305387237469962
+District_Sangli,0.00013052089818516962
+District_Jorhat,0.00012840938876119883
+District_Rajnandgaon,0.00012564073524639743
+District_Parbhani,0.00012194527981613219
+District_Gadchiroli,0.00012141522294035792
+District_Solapur,0.00011627762807985588
+District_Kurnool,0.0001139010853433945
+District_Annamayya,0.00011191943662271305
+District_Kozhikode,0.00011091031835565905
+District_Farrukhabad,0.00010734574093800599
+District_Mahabubabad,0.0001015563774077067
+District_Surguja,9.814518719745535e-05
+District_Valsad,9.402084921740248e-05
+District_Wardha,9.399103578322922e-05
+District_Rae Bareli,9.080420625183444e-05
+District_Krishna,9.033866558307825e-05
+District_Darrang,8.84275434315209e-05
+District_Ballari,8.711428168214939e-05
+District_Y.S.R. Kadapa,8.640563291452112e-05
+District_Puri,8.613431719904366e-05
+District_Ahilyanagar,8.605238304869127e-05
+District_Latehar,8.488840520659751e-05
+District_Gaurela-Pendra-Marwahi,8.358007766611205e-05
+District_Bidar,8.232716922020244e-05
+District_Nanded,7.940903550623892e-05
+District_Amethi,7.861588131072617e-05
+District_Jhargram,7.797638936627018e-05
+District_Khairthal-Tijara,7.663064836423653e-05
+District_Visakhapatnam,7.453349365489296e-05
+District_Kamrup,7.353812071842801e-05
+District_Kokrajhar,7.30712127227353e-05
+District_Bilaspur,7.189708520549054e-05
+District_Udalguri,7.101622998383921e-05
+District_Balotra,7.057278698038888e-05
+District_Dangs,7.034354796741312e-05
+District_Bastar,7.010954240612417e-05
+District_Kanpur Nagar,6.988136447459008e-05
+District_Junagadh,6.968414635312879e-05
+District_Raigarh,6.890208293506958e-05
+District_Washim,6.833005151085365e-05
+District_Thane,6.68867806945819e-05
+District_Ambedkar Nagar,6.494740039715633e-05
+District_Beawar,6.465904570921548e-05
+District_Jalgaon,6.35941658792265e-05
+District_Alluri Sitharama Raju,6.20067731854845e-05
+District_Jayashankar Bhupalapally,6.168852458730195e-05
+District_South Salmara Mancachar,6.0915127663490716e-05
+District_Dindigul,5.9923718795350655e-05
+District_Dhanbad,5.942105939464796e-05
+District_Upper Subansiri,5.868961900199877e-05
+District_Cuddalore,5.7654668702590426e-05
+District_Nandurbar,5.754489970759806e-05
+District_Narayanpet,5.6713405325874044e-05
+District_Jangoan,5.66163562586806e-05
+District_Palakkad,5.5325700300605547e-05
+District_Buldhana,5.463638946828274e-05
+District_Hojai,5.366953354321058e-05
+District_Jagitial,5.35968196691729e-05
+District_Nashik,5.357849407244603e-05
+District_Ntr,5.337983725234248e-05
+District_Purulia,5.2632413006297815e-05
+District_Dahod,5.2581734620503484e-05
+District_Pali,5.244108016241532e-05
+District_Raigad,5.198034046367816e-05
+District_Ayodhya,5.086362741782905e-05
+District_Gir Somnath,5.0744885100160096e-05
+District_Nalgonda,5.047575929151535e-05
+District_Prakasam,5.003171615130613e-05
+District_Dharwad,4.9207998360226336e-05
+District_Saraikela Kharsawan,4.902414241038127e-05
+District_Barwani,4.854656205285108e-05
+District_Ratnagiri,4.847870885281764e-05
+District_Lower Siang,4.671461999091108e-05
+District_Prayagraj,4.663867210170401e-05
+District_Biswanath,4.654666703360742e-05
+District_Wanaparthy,4.6164292210773584e-05
+District_Golaghat,4.57992074574932e-05
+District_Yadadri Bhuvanagiri,4.5689870722465465e-05
+District_Boudh,4.495919693223709e-05
+District_Hanumangarh,4.494974475778764e-05
+District_Sambhal,4.492745334361674e-05
+District_Pakke Kessang,4.485858789739394e-05
+District_Nandyal,4.414200143177715e-05
+District_Anand,4.403729857040801e-05
+District_Palghar,4.4007821516604344e-05
+District_Bagalkote,4.397605472622646e-05
+District_Champawat,4.359554255948864e-05
+District_Pakur,4.3500271106261e-05
+District_Nagaur,4.338151218439757e-05
+District_Warangal,4.324238094556878e-05
+District_Hazaribagh,4.235267465578247e-05
+District_Hailakandi,4.185780901058232e-05
+District_Kolar,4.116318835774827e-05
+District_Karauli,4.07804810668786e-05
+District_Durg,3.959313542426786e-05
+District_Sahebganj,3.931168215144305e-05
+District_Tapi,3.927886249308543e-05
+District_Bongaigaon,3.8398582659367234e-05
+District_Mahabubnagar,3.824415861944568e-05
+District_Dausa,3.798211693013459e-05
+District_Patan,3.764083702799791e-05
+District_Tonk,3.7601569373889075e-05
+District_Sangareddy,3.7296422870906616e-05
+District_Jammu,3.7271374057578636e-05
+District_Vadodara,3.682119280633357e-05
+District_Varanasi,3.681878080389955e-05
+District_West Karbi Anglong,3.6762311571293286e-05
+District_Navsari,3.675364728771054e-05
+District_Amravati,3.6641400676487476e-05
+District_Bundi,3.520170779625967e-05
+District_Parvathipuram Manyam,3.4824600343712904e-05
+District_Purba Medinipur,3.3795097190381595e-05
+District_Bijapur,3.372087716480183e-05
+District_South 24 Parganas,3.327325468845966e-05
+District_Khairagarh-Chhuikhadan-Gandai,3.32239769530477e-05
+District_Dhemaji,3.302944747814503e-05
+District_Nagaon,3.284803712576662e-05
+District_Davanagere,3.219784455399539e-05
+District_Thoothukkudi,3.1599280879935975e-05
+District_Damoh,3.139811345856105e-05
+District_Lakhimpur,3.1323319071529165e-05
+District_Chirang,3.128471554184312e-05
+District_Sultanpur,3.109603402283769e-05
+District_Rajanna Sircilla,3.091066327731263e-05
+District_Balrampur-Ramanujganj,3.088713963455991e-05
+District_Mohla-Manpur-Ambagarh Chouki,3.084253315821587e-05
+District_Tirupati,3.0231833621085148e-05
+District_Mahasamund,3.0197829689802518e-05
+District_Hanumakonda,3.006660057145745e-05
+District_Namakkal,2.9943895804571524e-05
+District_Tinsukia,2.9392649475364778e-05
+District_Sonepur,2.9262957266780775e-05
+District_Dharashiv,2.921070205536135e-05
+District_Viluppuram,2.9142083400285386e-05
+District_Erode,2.9118382363634083e-05
+District_Satara,2.89314965403219e-05
+District_Belagavi,2.8591449077443388e-05
+District_Chandrapur,2.8215256468205986e-05
+District_Jabalpur,2.7642678194339626e-05
+State_Goa,2.6682479943217726e-05
+District_Surajpur,2.6672191036095317e-05
+District_Rajsamand,2.612632550005072e-05
+District_Ratlam,2.612352726836736e-05
+District_Raichur,2.5957951711843582e-05
+District_Bemetara,2.581495037226759e-05
+District_Gadag,2.5765650281130536e-05
+District_Kallakurichi,2.5569335727970146e-05
+District_Bharuch,2.521610830185959e-05
+District_Sribhumi,2.4779615725357115e-05
+District_Suryapet,2.4602543517999897e-05
+District_Mayiladuthurai,2.4434251151767003e-05
+District_Chhatrapati Sambhajinagar,2.4235740437575345e-05
+District_Bengaluru Rural,2.402754159517665e-05
+District_Phalodi,2.3756608497145843e-05
+District_Malkangiri,2.353208997921345e-05
+District_Sri Sathya Sai,2.3503913419485467e-05
+District_Salem,2.3077483444927567e-05
+District_Bankura,2.2853211025151556e-05
+District_Akola,2.2612336678924506e-05
+District_Pune,2.25131022789665e-05
+District_Surat,2.2507461268575402e-05
+District_Mungeli,2.244994494968522e-05
+District_Bharatpur,2.2090304730790396e-05
+District_Sheopur,2.1934510252809555e-05
+District_Bara Banki,2.186414251440985e-05
+District_Mauganj,2.1722427596565946e-05
+District_Bhadradri Kothagudem,2.1123474699740336e-05
+District_Haveri,2.0711335423493958e-05
+District_Bhind,2.0624053635305616e-05
+District_Sonitpur,2.0542202963537745e-05
+District_Solan,2.0297327642346335e-05
+District_Dehradun,2.0153090615680177e-05
+District_Kondagaon,1.968943242912831e-05
+District_Sarangarh-Bilaigarh,1.957425591508252e-05
+District_Sakti,1.9468341059901987e-05
+District_Mulugu,1.9418778548744e-05
+District_Medak,1.935259381388627e-05
+District_Marigaon,1.9336566410396534e-05
+District_Kalaburagi,1.9263563825574928e-05
+District_Ambala,1.9064374340926505e-05
+District_Tehri Garhwal,1.878601690557536e-05
+District_Chamarajanagar,1.8690117563460407e-05
+District_Madurai,1.8686938072136768e-05
+District_Almora,1.8327514907690784e-05
+District_Malda,1.8114901912044882e-05
+District_Jashpur,1.7955424478119863e-05
+District_Dumka,1.788417970451552e-05
+District_Datia,1.7135116145207155e-05
+District_Palnadu,1.7085972984747987e-05
+District_Dungarpur,1.6629749670554898e-05
+District_Hisar,1.6598729817379784e-05
+District_Panna,1.6135134747679446e-05
+District_Thiruvarur,1.6076365140539234e-05
+District_Kanpur Dehat,1.6004848911887872e-05
+District_Khammam,1.5874956299423927e-05
+District_Udham Singh Nagar,1.569183063035096e-05
+District_Samastipur,1.558578915539637e-05
+District_Nizamabad,1.5453309490638252e-05
+District_Dhamtari,1.54247444599005e-05
+District_Ranga Reddy,1.541594040491247e-05
+District_Sivasagar,1.5412557399110698e-05
+District_Umaria,1.5306689889483362e-05
+District_Purbi Champaran,1.4766433136156513e-05
+District_Bengaluru Urban,1.470483243648238e-05
+District_Chittoor,1.4661797751398927e-05
+District_Godda,1.4555624710644077e-05
+District_Beed,1.4339366187448702e-05
+District_Coimbatore,1.4294901556364796e-05
+District_Shajapur,1.4144849171986543e-05
+District_Fatehabad,1.3979138155096183e-05
+District_Ramgarh,1.3912128537902859e-05
+District_Munger,1.3839465687853287e-05
+District_Banas Kantha,1.3417536140273967e-05
+District_Majuli,1.3298089244946203e-05
+District_Madhepura,1.3044157629904608e-05
+District_Narmada,1.27456812445656e-05
+District_Hassan,1.2496662349386465e-05
+District_Sambalpur,1.2423584168533943e-05
+District_Morbi,1.232947228685381e-05
+District_Jhajjar,1.2093369216266512e-05
+District_Kachchh,1.2048312402991099e-05
+District_Ramanathapuram,1.1904136540353329e-05
+District_Tenkasi,1.1659466544624609e-05
+District_Maihar,1.164625437916086e-05
+District_Gumla,1.1433814891210134e-05
+District_Chamba,1.1421040685601938e-05
+District_Bhopal,1.1399652030936588e-05
+District_Alipurduar,1.1166244789316776e-05
+District_Deoghar,1.1127275683210544e-05
+District_Chikkamagaluru,1.1053307090250275e-05
+District_Siddharthnagar,1.1036426548098504e-05
+District_Janjgir-Champa,1.0947785381441475e-05
+District_Jaipur,1.072434016380454e-05
+District_Chatra,1.0707509933342052e-05
+District_Etawah,1.0336215502717223e-05
+District_Bhandara,1.0244510742786426e-05
+District_Bhavnagar,1.0156606858422827e-05
+District_West Godavari,1.0132323006051345e-05
+District_Jhunjhunu,1.0028965171020195e-05
+District_Panipat,9.917054273683816e-06
+District_Rayagada,9.905122109701134e-06
+District_Khagaria,9.88223524181851e-06
+District_Rohtak,9.778690134162654e-06
+District_Kra Daadi,9.72756773240214e-06
+District_Saran,9.69353428079834e-06
+District_Seoni,9.6724403401611e-06
+District_Didwana-Kuchaman,9.67044373889155e-06
+District_Charaideo,9.592933423598623e-06
+District_Cooch Behar,9.553870488517148e-06
+District_Kotputli-Behror,9.364604992382188e-06
+District_Tawang,9.28484086707287e-06
+District_Yadgir,9.154949390842149e-06
+District_Jalore,9.145726241147672e-06
+District_Vellore,9.079510834208083e-06
+District_Lower Subansiri,9.077021482213806e-06
+District_Virudhunagar,8.900895934940254e-06
+District_Banswara,8.887232965062078e-06
+District_Krishnagiri,8.886281917243232e-06
+District_Jalna,8.86487664496058e-06
+District_Adilabad,8.819396978111728e-06
+District_Phek,8.815879146400548e-06
+District_Mandya,8.808310303447528e-06
+District_Agra,8.790319868297157e-06
+District_Pilibhit,8.771574153809177e-06
+District_Sirohi,8.762949716316342e-06
+District_Deeg,8.757889928712026e-06
+District_Chitradurga,8.622868346058723e-06
+District_Sidhi,8.534747696137904e-06
+District_Kodagu,8.41267801719458e-06
+District_Rupnagar,8.11694110089316e-06
+District_Baksa,8.115791757712818e-06
+District_Jalpaiguri,8.100096032018462e-06
+District_Faridabad,7.988699596870593e-06
+State_Ladakh,7.5430059947014855e-06
+District_Aligarh,7.531859724571108e-06
+District_Mysuru,7.447963374281414e-06
+District_Indore,7.439240223722522e-06
+District_Karimnagar,7.4215258473237405e-06
+District_Mandla,7.372527190074155e-06
+District_Chitrakoot,7.357137920941363e-06
+District_Balasore,7.277997537075167e-06
+District_Cachar,7.116245905217003e-06
+District_Ghaziabad,7.050474520180955e-06
+District_Tirunelveli,6.974025428849736e-06
+District_Nagapattinam,6.955822208115205e-06
+District_Lalitpur,6.844351712290849e-06
+District_Ganganagar,6.793685239710406e-06
+District_Kalahandi,6.677799995655455e-06
+District_Sonbhadra,6.665565246261593e-06
+District_Deogarh,6.644019186387108e-06
+District_Ariyalur,6.6430934729079634e-06
+District_Uttarkashi,6.515563913830746e-06
+District_Mancherial,6.5146542750604865e-06
+District_Mainpuri,6.313274363562052e-06
+District_Vizianagaram,6.260092228754838e-06
+District_Azamgarh,6.166096650214184e-06
+District_Giridih,6.072097706351542e-06
+District_Singrauli,6.0000377726514475e-06
+District_Gopalganj,5.999043475878515e-06
+District_Panch Mahals,5.99072074628246e-06
+District_Jaunpur,5.9380114329438375e-06
+District_Ballia,5.9085531149041615e-06
+District_Karbi Anglong,5.907479566907343e-06
+District_Mahisagar,5.8616852219520995e-06
+District_Koderma,5.801764670528188e-06
+District_Hamirpur,5.7871985179484845e-06
+District_Kasaragod,5.726460551422706e-06
+District_Narayanpur,5.615633686598082e-06
+District_Arwal,5.58232082404458e-06
+District_Garhwa,5.533345954367633e-06
+District_Simdega,5.454931374988035e-06
+District_Chhotaudepur,5.346367637318445e-06
+District_Paschim Medinipur,5.341269167053292e-06
+District_Karnal,5.2485141230928385e-06
+District_Mau,5.208774657740411e-06
+District_Dharmapuri,5.145759337044439e-06
+District_Tiruvannamalai,5.1416860562861435e-06
+District_Kathua,5.1026884740669704e-06
+District_Goalpara,5.071526315234989e-06
+District_Hapur,4.985945145509788e-06
+District_Shahdol,4.969690006884092e-06
+District_Kalimpong,4.967909895597134e-06
+District_Balaghat,4.929614687082317e-06
+District_Barpeta,4.916709880236543e-06
+District_North 24 Parganas,4.901949583329523e-06
+District_Shivamogga,4.8765834939303e-06
+District_Khandwa (East Nimar),4.853664593204797e-06
+District_Bhilwara,4.783360754380416e-06
+District_Jhalawar,4.760802688704828e-06
+District_Mahendragarh,4.754274771699415e-06
+District_Longding,4.753004408087993e-06
+District_Paschim Bardhaman,4.705320499062286e-06
+District_Hathras,4.678294875966564e-06
+District_Gorakhpur,4.676938857113144e-06
+District_Thiruvananthapuram,4.635390570882919e-06
+District_Balod,4.565568057727896e-06
+District_Firozabad,4.416667510224138e-06
+District_Harda,4.359009050709937e-06
+District_Uttar Bastar Kanker,4.2305310915294775e-06
+District_Medchal Malkajgiri,4.200978146296437e-06
+District_Udhampur,4.174133432834446e-06
+District_Uttar Dinajpur,4.07626034915413e-06
+District_Nagarkurnool,4.072995833613926e-06
+District_Darbhanga,4.036282031953133e-06
+District_Purnia,4.012212124479068e-06
+District_Vikarabad,3.933745015638748e-06
+District_Kollam,3.926766639631785e-06
+District_Ranipet,3.92134460635722e-06
+District_Supaul,3.903110735509303e-06
+District_Anjaw,3.889670391157179e-06
+District_Uttara Kannada,3.88671406089336e-06
+District_Nainital,3.602092697431397e-06
+District_Pathanamthitta,3.5975712494863624e-06
+District_Manendragarh-Chirmiri-Bharatpur(M C B),3.5757026398264355e-06
+District_Barmer,3.5693569055442732e-06
+District_Ajmer,3.550322522221001e-06
+District_Mahesana,3.5250879028337285e-06
+District_Shamli,3.445450169537641e-06
+District_Nawada,3.3960013394535845e-06
+District_Idukki,3.353479477746252e-06
+District_Chikkaballapura,3.349969203857232e-06
+District_Tirupathur,3.284253404270356e-06
+District_Hardoi,3.218859849883433e-06
+District_Palamu,3.2077166363220576e-06
+District_Bhadohi,3.207286961173193e-06
+District_Chhatarpur,3.1930743071481173e-06
+District_Purba Bardhaman,3.1732632855422937e-06
+District_Tumakuru,3.108668886181341e-06
+District_Shrawasti,3.0992317615722858e-06
+District_Kannauj,3.0424538739286297e-06
+District_Udaipur,3.013112069671668e-06
+District_Muzaffarpur,2.903563214804009e-06
+District_Bengaluru South,2.8297104398014186e-06
+District_Mathura,2.7484644825223205e-06
+District_Gwalior,2.7227137096073813e-06
+District_Kancheepuram,2.7014787819133555e-06
+District_Porbandar,2.6875188362044206e-06
+District_Pandhurna,2.6729059023878956e-06
+District_Dindori,2.66123645673241e-06
+District_Arvalli,2.6521893370728672e-06
+District_Guna,2.645494459081663e-06
+District_Tirap,2.6382888687032708e-06
+District_Agar-Malwa,2.6222932268924077e-06
+District_Siang,2.60302911865499e-06
+District_Dima Hasao,2.573070997656562e-06
+District_Chengalpattu,2.5445607858780984e-06
+District_Etah,2.5295999452050637e-06
+District_Fatehpur,2.523267030832682e-06
+District_Khargone (West Nimar),2.519941680567803e-06
+District_Patna,2.509546415865921e-06
+District_Sabar Kantha,2.4265311291516936e-06
+District_Lakhisarai,2.4260999277391567e-06
+District_Burhanpur,2.4050899904346803e-06
+District_Bahraich,2.3852284616586514e-06
+District_Jharsuguda,2.350046722188148e-06
+District_Thanjavur,2.317046857342984e-06
+District_Pithoragarh,2.231068482073434e-06
+District_Siddipet,2.2107899735395045e-06
+District_Lohit,2.192790818850402e-06
+District_Deoria,2.1712222089076574e-06
+District_Upper Siang,2.1413814581354717e-06
+District_Korba,2.1004435152783365e-06
+District_Bandipora,2.0843899295553293e-06
+District_West Siang,2.061059326529053e-06
+District_Bhagalpur,2.0421027541327025e-06
+District_Shivpuri,2.027079785700972e-06
+District_Jehanabad,2.004494152586955e-06
+District_Khunti,1.9588905348277233e-06
+District_Jogulamba Gadwal,1.9468179505473966e-06
+District_Madhubani,1.9432081318632213e-06
+District_Ahmedabad,1.8295189019062923e-06
+District_Gaya,1.7399303767922116e-06
+District_Sawai Madhopur,1.6156093092401523e-06
+District_Ernakulam,1.5942482615352638e-06
+District_Kheda,1.5886337398084468e-06
+District_Mirzapur,1.5570659856827306e-06
+District_Mandsaur,1.5446044117901653e-06
+District_Leparada,1.5250900034617463e-06
+District_Ujjain,1.5241485760594244e-06
+District_Narmadapuram,1.4137719031120522e-06
+District_Gandhinagar,1.4085882895040006e-06
+District_Udupi,1.371884434830593e-06
+District_Gonda,1.3442806514903023e-06
+District_Sehore,1.333241982433118e-06
+District_Korea,1.2861301016833632e-06
+District_Ghazipur,1.2798278270554917e-06
+District_Kakinada,1.2694033025091002e-06
+District_Banka,1.2516797981699805e-06
+District_Birbhum,1.225564303841742e-06
+District_Buxar,1.1750809308767537e-06
+District_Kurung Kumey,1.1428410585571103e-06
+District_Karur,1.1213958033480985e-06
+District_Betul,1.1160044201715508e-06
+District_East Siang,1.1123328014767307e-06
+District_Kaushambi,1.0987049901985283e-06
+District_Dibrugarh,1.0917218866673487e-06
+District_Haridwar,1.0763001952129396e-06
+District_Jalaun,1.0479611727257102e-06
+District_Saharanpur,1.027612307554476e-06
+District_Sundargarh,1.0189416942026983e-06
+District_Siwan,1.000210654131981e-06
+District_East Singhbum,9.957920312807506e-07
+District_Muzaffarnagar,9.90531351813161e-07
+District_Narsimhapur,9.541436097572672e-07
+District_Saharsa,9.123274846619308e-07
+District_Yamunanagar,8.966890091910862e-07
+District_Kushinagar,8.610894601880476e-07
+District_Basti,8.436371914700954e-07
+District_Lower Dibang Valley,8.144558140381917e-07
+District_Mandi,8.105661218022394e-07
+District_Kabeerdham,8.081953575155022e-07
+District_Sant Kabir Nagar,7.722858626354737e-07
+District_Chhindwara,7.420122669924939e-07
+District_Lucknow,7.137809339015375e-07
+District_Katihar,7.133167731839022e-07
+District_Banda,7.131460707612278e-07
+District_Ranchi,7.122290208376272e-07
+District_Barnala,7.081276035962808e-07
+District_Malappuram,7.066115657561861e-07
+District_Khordha,6.634919552770462e-07
+District_Moradabad,6.039984426499962e-07
+District_Hooghly,5.744846483336469e-07
+District_Chandauli,5.637743261446953e-07
+District_Nalanda,5.440429985650064e-07
+District_Alirajpur,4.838748713430853e-07
+District_Keonjhar,4.693231479731355e-07
+District_Sukma,4.6553961883931475e-07
+District_Salumbar,4.6261457327096934e-07
+District_Baghpat,4.0696681784743147e-07
+District_Sheikhpura,4.021520106492756e-07
+District_Dakshin Bastar Dantewada,3.9775252638123823e-07
+District_Begusarai,3.7670122895073613e-07
+District_Vidisha,3.4413841913930944e-07
+District_West Kameng,3.246198785232871e-07
+District_Bulandshahr,2.984025947877563e-07
+District_Rewari,2.9598374435702773e-07
+District_Chennai,2.9335539201941266e-07
+District_Shahjahanpur,2.784502643538535e-07
+District_Chumoukedima,2.661685532121283e-07
+District_Amreli,2.500323216772844e-07
+District_Tikamgarh,2.2570110578955443e-07
+District_Jind,2.1979017487145035e-07
+District_Gangtok,2.1887739927069227e-07
+District_Ferozepur,2.0925052518624939e-07
+District_Wayanad,2.0139034297577703e-07
+District_Tiruchirappalli,2.011931795991837e-07
+District_Dr. B.R. Ambedkar Konaseema,1.8003924397887865e-07
+District_Gyalshing,1.7854522264556185e-07
+District_Kullu,1.634903454306413e-07
+District_Panchkula,1.5478398903276464e-07
+District_Kasganj,1.533677739260123e-07
+District_Papum Pare,1.4456911867575995e-07
+District_Unakoti,1.3217021154547934e-07
+District_Gajapati,1.2762644091774388e-07
+District_Mangan,1.2371039200411148e-07
+District_Dhenkanal,1.233832815923436e-07
+District_Kamle,1.2192622302067728e-07
+District_North Tripura,1.0496132462907081e-07
+District_Kanniyakumari,1.0369679382393905e-07
+District_Balrampur,9.232648866431583e-08
+District_Gurugram,8.047153379701625e-08
+District_Mon,6.926168304850479e-08
+District_Khowai,5.652122158597628e-08
+District_East Kameng,4.7097227463142896e-08
+District_Kota,3.956491940849599e-08
+District_Rudraprayag,3.5238513601170354e-08
+District_Rajkot,2.9732723926878283e-08
+District_Dhalai,2.7056300693504974e-08
+District_Thiruvallur,2.5764240338134254e-08
+District_Nirmal,1.9917809973777758e-08
+District_Tuensang,1.7294759324870252e-08
+District_Soreng,1.560897309350926e-08
+District_Botad,1.4117641610384814e-08
+District_Namsai,1.4097064620991938e-08
+District_Jamui,1.2311238930581417e-08
+District_Longleng,8.378225249380336e-09
+District_Dimapur,8.210207842968043e-09
+District_Bhojpur,6.584223975866455e-09
+District_West Tripura,3.848419092734945e-09
+District_Tseminyu,3.3473667129583616e-09
+District_Peren,3.044879324657093e-09
+District_Darjeeling,3.0288469996505086e-09
+District_Pudukkottai,1.963018984826568e-09
+District_Raisen,1.0839823896691312e-09
+District_South Tripura,8.452526586629695e-10
+District_Balangir,7.434691803211685e-12
+District_Mahrajganj,3.652150739116441e-12
+District_Pathankot,0.0
+District_Neemuch,0.0
+District_Patiala,0.0
+District_Nayagarh,0.0
+District_Nuapada,0.0
+District_Pauri Garhwal,0.0
+District_Perambalur,0.0
+District_Meerut,0.0
+District_Mayurbhanj,0.0
+District_Nadia,0.0
+District_Nabarangpur,0.0
+District_Poonch,0.0
+District_Murshidabad,0.0
+District_Peddapalli,0.0
+District_Palwal,0.0
+District_Baramulla,0.0
+District_Wokha,0.0
+District_West Singhbhum,0.0
+District_Aizawl,0.0
+District_Bareilly,0.0
+District_Baran,0.0
+District_Bargarh,0.0
+District_Bathinda,0.0
+District_Sheohar,0.0
+District_Shamator,0.0
+District_Serchhip,0.0
+District_Shahid Bhagat Singh Nagar,0.0
+District_Sepahijala,0.0
+District_Satna,0.0
+District_Samba,0.0
+District_Sangrur,0.0
+District_Kishanganj,0.0
+District_Kishtwar,0.0
+District_Kolasib,0.0
+District_Kohima,0.0
+District_Kiphire,0.0
+District_Ashoknagar,0.0
+District_Aurangabad,0.0
+District_Kinnaur,0.0
+District_Rohtas,0.0
+District_Sagar,0.0
+District_S.A.S Nagar,0.0
+District_Kupwara,0.0
+District_Kulgam,0.0
+District_Kottayam,0.0
+District_Saitual,0.0
+District_Koraput,0.0
+District_Kurukshetra,0.0
+District_Reasi,0.0
+District_Rampur,0.0
+District_Ramban,0.0
+District_Lohardaga,0.0
+District_Leh Ladakh,0.0
+District_Lawngtlai,0.0
+District_Rewa,0.0
+District_Pulwama,0.0
+District_Moga,0.0
+District_Mokokchung,0.0
+District_Mamit,0.0
+District_Malerkotla,0.0
+District_Mansa,0.0
+District_Ludhiana,0.0
+District_Lunglei,0.0
+District_Rajouri,0.0
+District_North And Middle Andaman,0.0
+District_Niuland,0.0
+District_North Goa,0.0
+District_Nuh,0.0
+District_Noklak,0.0
+District_Nicobars,0.0
+District_Pashchim Champaran,0.0
+District_Pakyong,0.0
+District_Namchi,0.0
+District_Anuppur,0.0
+District_Kargil,0.0
+District_Angul,0.0
+District_Kendrapara,0.0
+District_Siaha,0.0
+District_Araria,0.0
+District_Katni,0.0
+District_Anakapalli,0.0
+District_Anantnag,0.0
+District_Kheri,0.0
+District_Khawzawl,0.0
+District_Shopian,0.0
+District_Shi Yomi,0.0
+District_Shimla,0.0
+District_Fatehgarh Sahib,0.0
+District_Faridkot,0.0
+District_Gomati,0.0
+District_Gautam Buddha Nagar,0.0
+District_Ganjam,0.0
+District_Tarn Taran,0.0
+District_Surendranagar,0.0
+District_Srinagar,0.0
+District_Hoshiarpur,0.0
+District_Howrah,0.0
+District_Jagatsinghapur,0.0
+District_Gurdaspur,0.0
+District_Jalandhar,0.0
+District_Jajpur,0.0
+District_Jamnagar,0.0
+District_Hnahthial,0.0
+District_Kaimur (Bhabua),0.0
+District_Sonipat,0.0
+District_Kaithal,0.0
+District_South Goa,0.0
+District_Srikakulam,0.0
+District_Sri Muktsar Sahib,0.0
+District_South Andamans,0.0
+District_Sikar,0.0
+District_Sivaganga,0.0
+District_Sitamarhi,0.0
+District_Sirsa,0.0
+District_Sirmaur,0.0
+District_Kangra,0.0
+District_Kandhamal,0.0
+District_Kapurthala,0.0
+District_Karaikal,0.0
+District_Dakshina Kannada,0.0
+District_Dakshin Dinajpur,0.0
+District_Alwar,0.0
+District_Alappuzha,0.0
+District_Dholpur,0.0
+District_Dewas,0.0
+District_Dibang Valley,0.0
+District_Devbhumi Dwarka,0.0
+District_Thrissur,0.0
+District_The Nilgiris,0.0
+District_Fazilka,0.0
+District_Ganderbal,0.0
+District_Doda,0.0
+District_Bageshwar,0.0
+District_Amritsar,0.0
+District_Cuttack,0.0
+District_Changlang,0.0
+District_Chandigarh,0.0
+District_Champhai,0.0
+District_Chamoli,0.0
+District_Amroha,0.0
+District_Una,0.0
+District_Bijnor,0.0
+District_Charkhi Dadri,0.0
+District_Bhadrak,0.0
+District_Budgam,0.0
+District_Budaun,0.0
+District_Vaishali,0.0
+District_Bhiwani,0.0
+State_Chandigarh,0.0
+District_Yanam,0.0
+District_Zunheboto,0.0
